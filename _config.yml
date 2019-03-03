@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootleggers ROM
+title: Cerberus OS
 email: bootleggersunstable@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A AOSP Custom ROM with the goal of making you feel like 家.
