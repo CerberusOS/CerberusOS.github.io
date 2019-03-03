@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <div class="card-image">
-	<img src="https://github.com/BootleggersROM/ExtraStuff/raw/pasta/threadfiles/00-banner.png">
+	<img src="https://github.com/CerberusOS/ExtraStuff/raw/pasta/threadfiles/00-banner.png">
 	<span class="card-title">About us</span>
 </div>
 <div class="card-content">
@@ -52,7 +52,7 @@ permalink: /about/
 	<br>
 	<h5>Our sources</h5>
 	<p>Our project is open source and you can check it out on our Github. We got a testing organization when huge rebases happens, or when we're preparing our support for a large number of devices. Also, we have another organization for all our supported devices. In case you found some wrong authorship or some issue with the source itself, feel free to tell us via Telegram or our Instagram.</p><br>
-		<a class="waves-effect waves-light btn shishu-accent-btn" href="https://github.com/BootleggersROM">Our github</a>
-		<a class="waves-effect waves-light btn shishu-accent-btn" href="https://github.com/Bootleggers-Future">Our testing github</a>
-		<a class="waves-effect waves-light btn shishu-accent-btn" href="https://github.com/BootleggersROM-Devices">Our supported devices github</a>
+		<a class="waves-effect waves-light btn shishu-accent-btn" href="https://github.com/CerberusOS">Our github</a>
+		</a>
+		<a class="waves-effect waves-light btn shishu-accent-btn" href="https://github.com/CerberusOS-Devices">Our supported devices github</a>
 </div>
