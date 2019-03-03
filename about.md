@@ -1,7 +1,7 @@
 ---
 layout: maincard-nopad
 title: About
-permalink: /
+permalink: /about/
 ---
 <div class="card-image">
 	<img src="https://github.com/BootleggersROM/ExtraStuff/raw/pasta/threadfiles/00-banner.png">
