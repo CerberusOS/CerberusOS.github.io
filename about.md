@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <div class="card-image">
-	<img src="img/Banner.png">
+	<img src="https://cerberusos.github.io/img/Banner.png">
 	<span class="card-title">About us</span>
 </div>
 <div class="card-content">
