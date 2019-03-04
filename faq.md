@@ -7,7 +7,7 @@ permalink: /faq/
   <div class="card-content">
     <span class="card-title">Frequently asked questions</span>
     <p>This is where our most asked questions are. It goes from some questions from our logos and project, to some silly stuff.</p>
-    <p>We'll get this section updated in case that we're missing some obvious info. If you got some suggestions to add here, please let us know on <a href="t.me/CerberusOS">our telegram group</a>.</p>
+    <p>We'll get this section updated in case that we're missing some obvious info. If you got some suggestions to add here, please let us know on <a href="https://t.me/CerberusOS">our telegram group</a>.</p>
     <br>
     <span class="card-title">Our project</span>
     <ul class="collapsible shishu-lighter-bg collapsible-noborder">
