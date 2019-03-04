@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div class="card-image">
 	<img src="https://cerberusos.github.io/img/Banner.png">
-	<span class="card-title">About us</span>
+	<!--<span class="card-title">About us</span>-->
 </div>
 <div class="card-content">
 	<p>Cerberus OS is a GZOSP based ROM with some extra patches and features from other projects, like BaikalOS, Bootleggers ROM, and many more. Our goal is trying to add the best.</p><br>
