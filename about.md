@@ -8,7 +8,7 @@ permalink: /about/
 	<span class="card-title">About us</span>
 </div>
 <div class="card-content">
-	<p>Cerberus OS is a GZOSP based ROM with some extra patches anD features from other projects, like BaikalOS, Bootleggers ROM, and many more. Our goal is trying to add the best.</p><br>
+	<p>Cerberus OS is a GZOSP based ROM with some extra patches and features from other projects, like BaikalOS, Bootleggers ROM, and many more. Our goal is trying to add the best.</p><br>
 	<p>The project began as a small project for the MI MAX but then various users and maintainers got interested on supporting our project. Our source is constanly changing and upgrading thanks to various testers and maintainers with reports and commits needed for their devices, but in case we're missing something, please let us know on our instagram or telegram chat.</p><br>
 	<p>Our work wouldn't be possible thanks to our community of maintainers, testers or people who enjoy this custom ROM.</p><br>
 	<h5>Thank you list</h5>
