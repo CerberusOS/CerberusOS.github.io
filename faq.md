@@ -48,7 +48,7 @@ permalink: /faq/
         <li>
           <div class="collapsible-header collapsible-noborder shishu-lighter-bg"><i class="material-icons">help_outline</i><b>Q:</b> How can i apply for maintainership?</div>
           <div class="collapsible-body collapsible-noborder shishu-midlight-bg">
-            <p><b>A:</b> Feel free to fill <a href="https://bit.ly/btlg-maintainership">this form</a>. We'll take care of the rest.</p>
+            <p><b>A:</b> Feel free to fill <a href="https://goo.gl/forms/XaBc8tUPjJeC1kMR2">this form</a>. We'll take care of the rest.</p>
           </div>
         </li>
         <li>
