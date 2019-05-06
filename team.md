@@ -5,12 +5,12 @@ permalink: /team/
 ---
 <div class="container btlg-intro valign-wrapper" id="moreinfo">
       <div class="col s12 m6 center-align"><img src="{{- 'img/Pranav.jpg' | relative_url -}}" class="responsive-img"></div>
-      <div class="col s12 m6 center-align"><h4>Pranav Trivedi</h4><br><p>Project Leader [He Thinks & No One Believes]. Professor In Some College [What He Gonna Teach? LOL] Want To Know More? Add Me Up On Telegram.</p></div>
+      <div class="col s12 m6 center-align"><h4>Pranav Trivedi</h4><br><p>Project Leader and maintainer</p></div>
 </div>
 
 <div class="container btlg-intro valign-wrapper" id="moreinfo">
       <div class="col s12 m6 center-align"><img src="{{- 'img/btlg_ft1.png' | relative_url -}}" class="responsive-img"></div>
-      <div class="col s12 m6 center-align"><h4>Rohan Hasabe</h4><br><p>Will Write Here Soon.</p></div>
+      <div class="col s12 m6 center-align"><h4>Rohan Hasabe</h4><br><p>Developer and Maintainer</p></div>
 </div>
 
 <div class="container btlg-intro valign-wrapper" id="moreinfo">
